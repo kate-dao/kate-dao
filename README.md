@@ -1,10 +1,16 @@
-👋 Hi, I’m Kate Dao. I have 8 years of hospitality experience, having worked as a Hotel Sales Professional at Hyatt Vietnam and Hilton Toronto. Now, I’m eager to apply my analytics expertise and industry knowledge in a Business Analyst role, where I can help organizations make data-driven decisions and reach their goals. I’m looking to collaborate on Business or Data Analytics projects about hospitality, technology, biotechnology and healthcare. 
+👋 Hi, I'm Kate Dao — a Master's student in Business Analytics at Brandeis International Business School, with a strong foundation in data analytics, statistics, and applied econometrics.
+
+📊 I have experience working with Python, R, MySQL, and Tableau to analyze data, build predictive models, and deliver actionable insights. My background in hospitality and sales has sharpened my skills in customer analysis, revenue optimization, and cross-functional collaboration.
+
+🚀 On GitHub, you'll find projects where I apply machine learning and statistical methods to real-world problems — like comparing classification models on the Titanic dataset and analyzing factors that influence college GPA.
+
+🔍 I'm passionate about turning messy data into meaningful stories and continuously improving through hands-on learning.
 
 📫 I can be reached at: khanhphuc58@gmail.com 
  
 ⚡ Fun fact: I practice Muay Thai. 
 
- [Resume](https://drive.google.com/file/d/10raFMR0j8tLTeS-qXTm2Bi4-D_vF_nDB/view?usp=sharing)
+ [Resume](https://drive.google.com/file/d/1sSWynTwG1qcIAh6jWDAhjIDSH-eEwcrG/view?usp=sharing) 
 
 <!---
 kate-dao/kate-dao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
