@@ -6,7 +6,7 @@
 
 🔍 I'm passionate about turning messy data into meaningful stories and continuously improving through hands-on learning.
 
-📫 I can be reached at: khanhphuc58@gmail.com or katedao@brandeis.edu
+📫 I can be reached at: khanhphuc58@gmail.com or katedao@brandeis.edu. 
  
 ⚡ Fun fact: I practice Muay Thai. 
 
